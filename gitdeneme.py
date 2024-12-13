@@ -3,3 +3,5 @@
 #al sana dğeişiklik commmmmit#
 
 #ikinci#
+
+#ikinci commit for github#

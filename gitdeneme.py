@@ -5,3 +5,5 @@
 #ikinci#
 
 #ikinci commit for github#
+
+#üçüncü commit for github#
